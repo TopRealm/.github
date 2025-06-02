@@ -2,6 +2,6 @@
 
 This organization is for maintaining codes in Youshou Archives.
 
-如有疑问，请联系yslib@outlook.com
+如有疑问，请联系yslib@outlook.com或zorua@vip.qq.com
 
-Please contact yslib@outlook.com if you have any questions.
+Please contact yslib@outlook.com or zorua@vip.qq.com if you have any questions.
